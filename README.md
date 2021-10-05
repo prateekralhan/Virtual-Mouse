@@ -1,4 +1,4 @@
-# Virtual Mouse 🖱🐭
+# Virtual Mouse 🖱🐭 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 Using OpenCV to control your mouse virtually using a web-camera
 
 ## Installation:
